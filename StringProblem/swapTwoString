@@ -2,7 +2,7 @@
 #include<conio.h>
 #include<string.h>
 
-void main()
+int main()
 {
     
    string str1,str2,temp;
@@ -16,5 +16,5 @@ void main()
     cout<<"After Swapping  Strings are: "<<endl;
     cout<<"String 1: "<<str1;
     cout<<endl<<"String 2: "<<str2;
-   
+   return 0;
 }
