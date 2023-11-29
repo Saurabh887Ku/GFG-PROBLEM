@@ -1,4 +1,4 @@
-# Program to find sum of elements in a given array
+/* Program to find sum of elements in a given array
 
 Given an array of integers, find the sum of its elements.
 
@@ -11,7 +11,7 @@ Explanation: 1 + 2 + 3 = 6
 Input : arr[] = {15, 12, 13, 10}
 Output : 50
 #
-
+*/
 //Program to find the sum of the array element
 #include<iostream>
 using namespace std;
